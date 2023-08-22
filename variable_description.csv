@@ -1,0 +1,24 @@
+Variable,Description,Type
+Age,Age of individual,Numeric
+Agegroup,Divided into seven age groups,Categorical
+Sex,Male or Female,Categorical
+Smoking,"Current cigarette smoker, Ex-smoker, or Never smoked",Categorical
+Education,Highest educational qualification of individual,Categorical
+Birthplace,"Elsewhere, England, Wales or Northern Ireland or Scotland",Categorical
+Alcohol,"Drinks outwith/within government guidelines, Ex drinker or Never drank alcohol",Categorical
+Employment,Engaged in various life and work activities.,Categorical
+CMOrec,Chief Medical Office guidance for physical activity,Categorical
+Veg,Consume recommended daily vegetable intake (Yes/No),Categorical
+Fruit,Consume recommended daily fruit intake (Yes/No),Categorical
+HealthBoard,Scottish Health Board (18 total),Categorical
+Longillness,Long-term illness (Yes/No),Categorical
+SAgenHealth,"Self-assessed general health, Fair/bad/very bad or Very good/good",Categorical
+GHQ,General health questionnaire (score between 0 and 12),Numeric
+WEMWBS,Warwick-Edinburgh Mental Well-Being Scale (score between 14 and 70),Numeric
+Cardio,Cardiovascular condition (Yes/No),Categorical
+Lifesat,Life satisfaction (below or above the mode),Categorical
+BP,High blood pressure (Yes/No),Categorical
+BMI,Body Mass Index of individual,Numeric
+Year,Year of the Scottish Health Survey,Numeric
+Glasgow,Health board in Glasgow area (Yes/No),Categorical
+BMIgroup,"Normal, Obese, Overweight, Underweight",Categorical
