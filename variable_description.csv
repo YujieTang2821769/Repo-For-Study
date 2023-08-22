@@ -1,6 +1,6 @@
 Variable,Description,Type
 Age,Age of individual,Numeric
-Agegroup,"¡°16-24¡±, ¡°25-34¡±, ¡­, ¡°75+¡±",Categorical
+Agegroup,"16-24", "25-34", ...Â­, "75",Categorical
 Sex,Male or Female,Categorical
 Smoking,"Current cigarette smoker, Ex-smoker, or Never smoked",Categorical
 Education,Highest educational qualification of individual,Categorical
@@ -8,7 +8,7 @@ Birthplace,"Elsewhere, England, Wales or Northern Ireland or Scotland",Categoric
 Alcohol,"Drinks outwith government guidelines, Drinks within government guidelines, 
 Ex drinker or Never drank alcohol",Categorical
 Employment,"Doing something else, In full-time education, In paid employment, 
-selfemployed or on gov¡¯t training, Looking after home/family, 
+selfemployed or on govÂ¡Â¯t training, Looking after home/family, 
 Looking for/intending to look for paid work, Perm unable to work, Retired",Categorical
 CMOrec,"Chief Medical Office guidance for physical activity: 
 Meets muscle rec only, Meets MVPA & muscle recs, 
